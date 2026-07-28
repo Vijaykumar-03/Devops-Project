@@ -17,7 +17,7 @@ module "network" {
 }
 module "ecs" {
 
-  source = "../../modules/ecs"
+  source = "../../Modules/Ecs"
 
   project_name = var.project_name
 
@@ -42,7 +42,7 @@ module "ecs" {
 }
 module "rds" {
 
-  source = "../../modules/rds"
+  source = "../../Modules/Rds"
 
   project_name = var.project_name
 
