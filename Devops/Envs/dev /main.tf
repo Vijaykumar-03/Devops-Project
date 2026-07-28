@@ -63,7 +63,7 @@ module "rds" {
 
   allocated_storage = 20
 
-  backup_retention_period = 3
+  backup_retention_period = 1
 
   deletion_protection = false
 
