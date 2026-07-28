@@ -1,6 +1,6 @@
 module "network" {
 
-  source = "../../modules/network"
+  source = "../../Modules/Network"
 
   project_name = var.project_name
 
