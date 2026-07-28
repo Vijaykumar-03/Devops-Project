@@ -8,7 +8,6 @@ This project demonstrates Infrastructure as Code (IaC), database reliability, an
 - AWS VPC
 - ECS Fargate
 - RDS PostgreSQL
-- EC2 Instance
 - Docker Compose
 - PostgreSQL
 - Backup & Restore Scripts
